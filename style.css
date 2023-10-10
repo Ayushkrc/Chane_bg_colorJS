@@ -1,0 +1,18 @@
+
+#btn{
+    transition: transform .2s; 
+    margin-left: 45%;
+    margin-top: 22%;
+    padding: 10px;
+    width: 180px;
+    background-color: rgb(24, 31, 59);
+    color: white;
+    border: none;
+    font-size: 1rem;
+    border-radius: 4px;
+}
+
+#btn:hover {
+    transform: scale(1.2);
+  }
+
